@@ -1,3 +1,3 @@
-module github.com/lovremitrovic/makelink
+module github.com/LovreMitrovic/makelink
 
 go 1.19
